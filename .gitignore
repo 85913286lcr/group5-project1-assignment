@@ -1,0 +1,11 @@
+# Raw / derived data — too large for git, regenerate locally instead
+SGJobData.csv
+jobs_clean.csv
+sgJobData.db
+
+# WSL/Windows download metadata junk
+*:Zone.Identifier
+
+# Editor / scratch files
+*.code-workspace
+*.ipynb.bak
