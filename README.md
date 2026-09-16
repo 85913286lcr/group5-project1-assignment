@@ -10,16 +10,19 @@ Our project helps <strong>HR teams</strong> use Singapore<strong> IT job</strong
 <th><p><strong>Owner</strong></p></th>
 <th><p><strong>Data handling notebook</strong></p></th>
 <th><p><strong>Dashboard/app code</strong></p></th>
+<th><p><strong>Dashboard/app Link</strong></p></th>
 </tr>
 <tr>
 <td><p>Presentation Slide</p></td>
 <td><p>All</p></td>
 <td colspan="2"><p><a href="https://docs.google.com/presentation/d/1_DSNvv86eaT9B9iyIP112l0rxU1EICiX/edit?slide=id.p6#slide=id.p6">Group5_Project1_Presentation </a></p></td>
+<td><p>/</p></td>
 </tr>
 <tr>
 <td><p>Github README </p></td>
 <td><p>All</p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/main/README.md">README</a> </p></td>
+<td><p>/</p></td>
 <td><p>/</p></td>
 </tr>
 <tr>
@@ -27,30 +30,34 @@ Our project helps <strong>HR teams</strong> use Singapore<strong> IT job</strong
 <td><p>All</p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/Team_Data_Cleaning_Final.ipynb">Team_Data_Cleaning_Final.ipynb</a><br><br><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/jobs_clean.csv">Jobs_clean.csv</a></p></td>
 <td><p>/</p></td>
+<td><p>/</p></td>
 </tr>
 <tr>
 <td><p>Case1: Salary benchmark by seniority</p></td>
 <td><p>Rachelle Congrui Liu (C)</p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/Rachelle_salarycase_by_position_level.ipynb">Rachelle_salarycase_by_position_level.ipynb</a></p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/Rachelle%20Streamlit%20_salarycase_by_position_level.py">Rachelle Streamlit _salarycase_by_position_level.py</a></p></td>
+<td><p><a href="https://group5-singapore-it-salary.streamlit.app/#salary-benchmark-by-position-level">https://group5-singapore-it-salary.streamlit.app/#salary-benchmark-by-position-level</a></p></td>
 </tr>
 <tr>
 <td><p>Case2: Experience premium</p></td>
 <td><p>Jen Ho</p></td>
 <td><p>      <a href="https://github.com/85913286lcr/group5-project1-assignment/blob/JenHo/JC%20File/Anaysis.ipynb">JCFileAnaysis.ipynb</a></p></td>
-<td><p>PowerBI APP</p></td>
+<td colspan="2"><p>PowerBI APP</p></td>
 </tr>
 <tr>
 <td><p>Case3: Contract vs permanent</p></td>
 <td><p>Wong Siew Yin</p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/sy/SY_Bus_Qn_data_analysis_.ipynb">SY_Bus_Qn_data_analysis_.ipynb</a></p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/sy/streamlit_dashboard.py">streamlit_dashboard.py</a></p></td>
+<td><p><a href="https://group5-singapore-it-salary-sy-qn3.streamlit.app/">https://group5-singapore-it-salary-sy-qn3.streamlit.app/</a></p></td>
 </tr>
 <tr>
 <td><p>Case4: Which IT job categories are high demand and hard to fill</p></td>
 <td><p>Adelene Soh Puay Siam</p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Adelene---Branch2/New%20Notebook.ipynb">New Notebook.ipynb</a></p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Adelene---Branch2/hard_to_fill_dashboard.py">hard_to_fill_dashboard.py</a></p></td>
+<td><p><a href="https://group5-singapore-it-salary-sy-qn4.streamlit.app/">https://group5-singapore-it-salary-sy-qn4.streamlit.app/</a></p></td>
 </tr>
 </table>
 
