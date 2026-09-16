@@ -1,19 +1,22 @@
 Salary benchmark by position level
 Owner: Rachelle Congrui Liu (C). 
 Business question: How do advertised salary benchmarks differ by position level
-Dashboard：https://group5-singapore-it-salary.streamlit.app/
+
+1. Dashboard：https://group5-singapore-it-salary.streamlit.app/
 1) Data Selection and Calculation: Each posting’s monthly salary midpoint is calculated as (minimum + maximum salary) ÷ 2. Across 134,503 eligible postings, the overall median midpoint is SGD 6,500, and each bar shows the median midpoint for one of the nine position levels.
--Selected postings: Count eligible records = 134,503.
--Salary midpoint Formula : (Minimum + Maximum monthly salary) ÷ 2.
--Overall median: Median of all selected midpoints = SGD 6,500.
--Each bar: Median salary midpoint for that position level.
--Q1–Q3: 25th–75th percentiles, showing the middle 50%.
-2) Key Findings and HR Recommendation
--Key findings
-    Overall median salary: SGD 6,500/month.
-    Large pay gap by level: Senior Management has the highest median (SGD 11,500), while Fresh/Entry Level has the lowest (SGD 2,900).
-    Management title ≠ higher pay: Manager (SGD 8,000) and Professional (SGD 7,887.50) differ by only SGD 112.50, with overlapping Q1–Q3 ranges.
--HR recommendations: 
-    Pay for role scope, not title：Manager and Professional salaries are almost identical, so HR should benchmark based on responsibilities and skills, rather than assuming a management title deserves higher pay.
-    Prioritise high-demand talent segments：Use posting volume + salary level together to identify roles where hiring demand is high and adjust recruitment budgets accordingly.
+2）Selected postings: Count eligible records = 134,503.
+3）Salary midpoint Formula : (Minimum + Maximum monthly salary) ÷ 2.
+4）Overall median: Median of all selected midpoints = SGD 6,500.
+5）Each bar: Median salary midpoint for that position level.
+6）Q1–Q3: 25th–75th percentiles, showing the middle 50%.
+2. Key Findings and HR Recommendation
+1）Key findings
+  -Overall median salary: SGD 6,500/month.
+  -Large pay gap by level: Senior Management has the highest median (SGD 11,500), while Fresh/Entry Level has the lowest (SGD 2,900).
+Management title ≠ higher pay: Manager (SGD 8,000) and Professional (SGD 7,887.50) differ by only SGD 112.50, with overlapping Q1–Q3 ranges.
+2）HR recommendations: 
+  -Pay for role scope, not title：Manager and Professional salaries are almost identical, so HR should benchmark based on responsibilities and skills, rather than assuming a management title deserves higher pay.
+  -Prioritise high-demand talent segments：Use posting volume + salary level together to identify roles where hiring demand is high and adjust recruitment budgets accordingly.
+
+
 
