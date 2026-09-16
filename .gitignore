@@ -1,6 +1,6 @@
-# Raw / derived data — too large for git, regenerate locally instead
+# Raw data — too large for git, regenerate locally instead
+# jobs_clean.csv is committed (not ignored) so Streamlit Community Cloud can serve the dashboard
 SGJobData.csv
-jobs_clean.csv
 sgJobData.db
 
 # WSL/Windows download metadata junk
@@ -9,3 +9,5 @@ sgJobData.db
 # Editor / scratch files
 *.code-workspace
 *.ipynb.bak
+.vscode/
+__pycache__/
