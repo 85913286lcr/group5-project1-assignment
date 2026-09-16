@@ -13,6 +13,13 @@ Our project helps <strong>HR teams</strong> use Singapore<strong> IT job</strong
 <th><p><strong>Dashboard/app Link</strong></p></th>
 </tr>
 <tr>
+<td><p>Written report</p></td>
+<td><p>All</p></td>
+<td><p><a href="https://docs.google.com/document/d/1Uo7CpArw0mvacBRzmZuVIDbpNFVWeuHd/edit">Group5_Project1_Report</a></p></td>
+<td><p>/</p></td>
+<td><p>/</p></td>
+</tr>
+<tr>
 <td><p>Presentation Slide</p></td>
 <td><p>All</p></td>
 <td colspan="2"><p><a href="https://docs.google.com/presentation/d/1_DSNvv86eaT9B9iyIP112l0rxU1EICiX/edit?slide=id.p6#slide=id.p6">Group5_Project1_Presentation </a></p></td>
