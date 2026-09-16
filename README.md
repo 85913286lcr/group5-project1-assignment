@@ -58,7 +58,7 @@ Our project helps <strong>HR teams</strong> use Singapore<strong> IT job</strong
 
 - <strong>Business scenario. </strong>Talent Acquisition and Compensation and Benefits teams must compete for IT talent within limited hiring budgets. They need a consistent reference for reviewing offers and role requirements.
 
-- <strong>Objective. </strong>Benchmark advertised salary by seniority, examine experience premiums, compare contract and permanent hiring patterns, and identify technology specialisms that combine posting demand and pay.
+- <strong>Objective. </strong>Benchmark advertised salary by seniority, examine experience premiums, compare contract and permanent hiring patterns, and identify technology specialisms that are in high demand and hard to fill.
 
 - <strong>Target users and value. </strong>Heads of Talent Acquisition, Compensation and Benefits leads and hiring managers can use the findings to review salary bands, calibrate experience requirements, consider employment mix and prioritise recruitment effort.
 
