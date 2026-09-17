@@ -42,29 +42,30 @@ Our project helps <strong>HR teams</strong> use Singapore<strong> IT job</strong
 <tr>
 <td><p>Case1: Salary benchmark by seniority</p></td>
 <td><p>Rachelle Congrui Liu (C)</p></td>
-<td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/Rachelle_salarycase_by_position_level.ipynb">Rachelle_salarycase_by_position_level.ipynb</a></p></td>
-<td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/Rachelle%20Streamlit%20_salarycase_by_position_level.py">Rachelle Streamlit _salarycase_by_position_level.py</a></p></td>
-<td><p><a href="https://group5-singapore-it-salary.streamlit.app/#salary-benchmark-by-position-level">https://group5-singapore-it-salary.streamlit.app/#salary-benchmark-by-position-level</a></p></td>
+<td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/Rachelle_salarycase_by_position_level.ipynb">Salary by position level notebook</a></p></td>
+<td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Rachelle-LIU/Final/Rachelle%20Streamlit%20_salarycase_by_position_level.py">Salary dashboard code</a></p></td>
+<td><p><a href="https://group5-singapore-it-salary.streamlit.app/#salary-benchmark-by-position-level">Salary dashboard</a></p></td>
 </tr>
 <tr>
 <td><p>Case2: Experience premium</p></td>
 <td><p>Jen Ho</p></td>
 <td><p>      <a href="https://github.com/85913286lcr/group5-project1-assignment/blob/JenHo/JC%20File/Anaysis.ipynb">JCFileAnaysis.ipynb</a></p></td>
-<td colspan="2"><p>PowerBI APP</p></td>
+<td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/JenHo/JC%20File/JC_Streamlit.py">JC_Streamlit.py</a></p></td>
+<td><p>On localhost and Power BI</p></td>
 </tr>
 <tr>
 <td><p>Case3: Contract vs permanent</p></td>
 <td><p>Wong Siew Yin</p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/sy/SY_Bus_Qn_data_analysis_.ipynb">SY_Bus_Qn_data_analysis_.ipynb</a></p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/sy/streamlit_dashboard.py">streamlit_dashboard.py</a></p></td>
-<td><p><a href="https://group5-singapore-it-salary-sy-qn3.streamlit.app/">https://group5-singapore-it-salary-sy-qn3.streamlit.app/</a></p></td>
+<td><p><a href="https://group5-singapore-it-salary-sy-qn3.streamlit.app/">Employment mix dashboard</a></p></td>
 </tr>
 <tr>
 <td><p>Case4: Which IT job categories are high demand and hard to fill</p></td>
 <td><p>Adelene Soh Puay Siam</p></td>
-<td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Adelene---Branch2/New%20Notebook.ipynb">New Notebook.ipynb</a></p></td>
+<td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Adelene---Branch2/Notebook4.ipynb">Notebook4.ipynb</a></p></td>
 <td><p><a href="https://github.com/85913286lcr/group5-project1-assignment/blob/Adelene---Branch2/hard_to_fill_dashboard.py">hard_to_fill_dashboard.py</a></p></td>
-<td><p><a href="https://group5-singapore-it-salary-sy-qn4.streamlit.app/">https://group5-singapore-it-salary-sy-qn4.streamlit.app/</a></p></td>
+<td><p><a href="https://group5-singapore-it-salary-sy-qn4.streamlit.app/">Hard-to-fill dashboard</a></p></td>
 </tr>
 </table>
 
