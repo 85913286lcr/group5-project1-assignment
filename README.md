@@ -15,7 +15,7 @@ Our project helps <strong>HR teams</strong> use Singapore<strong> IT job</strong
 <tr>
 <td><p>Written report</p></td>
 <td><p>All</p></td>
-<td><p><a href="https://docs.google.com/document/d/1Uo7CpArw0mvacBRzmZuVIDbpNFVWeuHd/edit">Group5_Project1_Report</a></p></td>
+<td><p><a href="https://docs.google.com/document/d/1Uo7CpArw0mvacBRzmZuVIDbpNFVWeuHd/edit">Group5_Project1_Report</a><br><br><a href="docs/reports/Group5_Written_Report_Updated.docx">Download updated Word report</a></p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
 </tr>
