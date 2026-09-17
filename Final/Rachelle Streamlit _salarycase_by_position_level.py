@@ -1,4 +1,3 @@
-"""an interactive salary dashboard using the team's final selection flag."""
 from pathlib import Path
 
 import numpy as np
